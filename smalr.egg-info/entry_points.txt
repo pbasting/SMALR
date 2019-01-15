@@ -1,3 +1,0 @@
-[console_scripts]
-smalr = smalr.smalr_multicontig:main
-
